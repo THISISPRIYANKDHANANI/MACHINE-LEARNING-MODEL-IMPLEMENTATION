@@ -70,3 +70,10 @@ See [requirements.txt](requirements.txt) for all dependencies.
 
 ## License
 This project is licensed under the MIT License.
+
+# output
+
+![img](https://github.com/user-attachments/assets/a1932a06-9581-440e-aae3-6df342de537e)
+![img](https://github.com/user-attachments/assets/392fb834-5100-4dc2-a11d-24ba59f85521)
+![img](https://github.com/user-attachments/assets/4cf3cba9-b6ec-4afe-b26a-3fe5a1c13113)
+![img](https://github.com/user-attachments/assets/d5a019b5-5dad-4623-9b84-391d70b1a2a4)
