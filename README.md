@@ -1,4 +1,17 @@
 # Email-Spam-Detection
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: Priyank Dhanani
+
+"INTERN ID: CT06DG396
+
+*DOMAIN: PYTHON PROGRAMMING
+
+*DURATION: 6 WEEEKS
+
+"MENTOR*: NEELA SANTOSH KUMAR
+
 # Spam Detection Web App
 
 A simple web application for detecting spam messages using a machine learning model (Naive Bayes) and Flask.
